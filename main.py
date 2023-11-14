@@ -3,7 +3,7 @@ from tkinter import *
 import pandas
 import random
 BACKGROUND_COLOR = "#B1DDC6"
-
+#pycharm
 
 
 data = pandas.read_csv("data/french_words.csv")
